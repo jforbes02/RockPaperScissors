@@ -1,4 +1,4 @@
-Simple Rock-Paper-Scissors game implemented in Java. The game allows a user to play against the computer, which randomly selects Rock, Paper, or Scissors. The program determines the winner based on standard game rules and displays the result.
+Simple Rock-Paper-Scissors game implemented in Java. The game allows a user to play against the computer, which randomly selects Rock, Paper, or Scissors. The program determines the winner based on standard game rules set by a HashMap and displays the result.
 
 ## Code Overview
 
